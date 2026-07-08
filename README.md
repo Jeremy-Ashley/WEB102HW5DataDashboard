@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![walkthrough](./DataDashboardPt1/src/assets/ezgif.com-crop.gif)
+![walkthrough](https://i.imgur.com/ojZ5jz2.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
