@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Walkthrough](https://imgur.com/Sotf3Bz.gif)
+<video src="https://your-video-url.mp4" autoplay loop muted></video>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
