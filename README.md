@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!Walkthrough[https://i.imgur.com/pID8xs2_lq.mp4]
+!Walkthrough[https://i.imgur.com/pID8xs2_lq.gif]
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
