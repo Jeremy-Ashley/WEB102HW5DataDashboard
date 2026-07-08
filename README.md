@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![walkthrough](https://imgur.com/mPOoB3g.gif)
+![walkthrough](./assets/ezgif.com-crop.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
