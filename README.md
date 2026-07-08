@@ -39,8 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![Walkthrough](https://i.imgur.com/pID8xs2.gif)
+![Walkthrough](https://imgur.com/pID8xs2.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
