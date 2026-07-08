@@ -39,11 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<video src="https://i.imgur.com/pID8xs2.mp4" autoplay loop muted playsinline></video>
+![walkthrough](https://i.imgur.com/mPOoB3g.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Licecap
+GIF created with ...  Licecap + ezgif to convert from original mp4 to gif
 
 ## Notes
 
