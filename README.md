@@ -39,9 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<video autoplay loop muted playsinline>
-  <source src="https://i.imgur.com/pID8xs2.mp4" type="video/mp4">
-</video>
+<video src="https://i.imgur.com/pID8xs2.mp4" autoplay loop muted playsinline></video>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
